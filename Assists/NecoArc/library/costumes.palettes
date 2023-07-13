@@ -1,0 +1,286 @@
+{
+  "colors": [
+    {
+      "$id": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+      "color": "0xFFF8D46E",
+      "name": "Hair",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "8925acbe-3776-4ca6-9191-c331e4951064",
+      "color": "0xFFCD8E46",
+      "name": "Hair Shade",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+      "color": "0xFFA76F3C",
+      "name": "Hair Shade 2",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "315caa00-82f1-42e9-8eec-658c24a5146a",
+      "color": "0xFF815032",
+      "name": "Hair Outline",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+      "color": "0xFFF8F8F8",
+      "name": "Shirt",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+      "color": "0xFFB0C2E2",
+      "name": "Shirt Shade",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "2383f131-5671-40fd-b84a-d96b907dc164",
+      "color": "0xFF8090C0",
+      "name": "Shirt Shade 2",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "4195860a-6f35-4414-b102-fe61d46417f0",
+      "color": "0xFF586090",
+      "name": "Shirt Outline",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "86401db2-1142-4771-b72d-cec9dcd2bb2e",
+  "id": "NecoCostumes",
+  "imageAsset": "53b24859-ab3e-4635-871c-15ef957bbf9c",
+  "maps": [
+    {
+      "$id": "3224c111-5a8c-44c7-b929-194f443e098f",
+      "colors": [
+        {
+          "paletteColorId": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+          "targetColor": "0xFFF8D46E"
+        },
+        {
+          "paletteColorId": "8925acbe-3776-4ca6-9191-c331e4951064",
+          "targetColor": "0xFFCD8E46"
+        },
+        {
+          "paletteColorId": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+          "targetColor": "0xFFA76F3C"
+        },
+        {
+          "paletteColorId": "315caa00-82f1-42e9-8eec-658c24a5146a",
+          "targetColor": "0xFF815032"
+        },
+        {
+          "paletteColorId": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+          "targetColor": "0xFFF8F8F8"
+        },
+        {
+          "paletteColorId": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+          "targetColor": "0xFFB0C2E2"
+        },
+        {
+          "paletteColorId": "4195860a-6f35-4414-b102-fe61d46417f0",
+          "targetColor": "0xFF586090"
+        },
+        {
+          "paletteColorId": "2383f131-5671-40fd-b84a-d96b907dc164",
+          "targetColor": "0xFF8090C0"
+        }
+      ],
+      "name": "default",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true
+        }
+      }
+    },
+    {
+      "$id": "2585c106-9649-4cd4-865d-32194b6083c2",
+      "colors": [
+        {
+          "paletteColorId": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+          "targetColor": "0xFFF80000"
+        },
+        {
+          "paletteColorId": "8925acbe-3776-4ca6-9191-c331e4951064",
+          "targetColor": "0xFFC60500"
+        },
+        {
+          "paletteColorId": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+          "targetColor": "0xFF940A00"
+        },
+        {
+          "paletteColorId": "315caa00-82f1-42e9-8eec-658c24a5146a",
+          "targetColor": "0xFF940A00"
+        },
+        {
+          "paletteColorId": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+          "targetColor": "0xFFBAC6EA"
+        },
+        {
+          "paletteColorId": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+          "targetColor": "0xFF9FA9C8"
+        },
+        {
+          "paletteColorId": "2383f131-5671-40fd-b84a-d96b907dc164",
+          "targetColor": "0xFF848CA6"
+        },
+        {
+          "paletteColorId": "4195860a-6f35-4414-b102-fe61d46417f0",
+          "targetColor": "0xFF696F85"
+        }
+      ],
+      "name": "Red Team",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "teamColor": "RED"
+        }
+      }
+    },
+    {
+      "$id": "a744306a-4fbe-4937-9954-b41e5d680595",
+      "colors": [
+        {
+          "paletteColorId": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+          "targetColor": "0xFF82B61E"
+        },
+        {
+          "paletteColorId": "8925acbe-3776-4ca6-9191-c331e4951064",
+          "targetColor": "0xFF608D17"
+        },
+        {
+          "paletteColorId": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+          "targetColor": "0xFF3E6410"
+        },
+        {
+          "paletteColorId": "315caa00-82f1-42e9-8eec-658c24a5146a",
+          "targetColor": "0xFF1C3C0A"
+        },
+        {
+          "paletteColorId": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+          "targetColor": "0xFFFF973E"
+        },
+        {
+          "paletteColorId": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+          "targetColor": "0xFFD66D33"
+        },
+        {
+          "paletteColorId": "2383f131-5671-40fd-b84a-d96b907dc164",
+          "targetColor": "0xFFAB4D1E"
+        },
+        {
+          "paletteColorId": "4195860a-6f35-4414-b102-fe61d46417f0",
+          "targetColor": "0xFF8A3814"
+        }
+      ],
+      "name": "Green Team",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "teamColor": "GREEN"
+        }
+      }
+    },
+    {
+      "$id": "f967555a-1776-4d05-a8e0-a986427f516b",
+      "colors": [
+        {
+          "paletteColorId": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+          "targetColor": "0xFF607EC7"
+        },
+        {
+          "paletteColorId": "8925acbe-3776-4ca6-9191-c331e4951064",
+          "targetColor": "0xFF3B5392"
+        },
+        {
+          "paletteColorId": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+          "targetColor": "0xFF17295D"
+        },
+        {
+          "paletteColorId": "315caa00-82f1-42e9-8eec-658c24a5146a",
+          "targetColor": "0xFF001128"
+        },
+        {
+          "paletteColorId": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+          "targetColor": "0xFF3B3F47"
+        },
+        {
+          "paletteColorId": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+          "targetColor": "0xFF2D3039"
+        },
+        {
+          "paletteColorId": "2383f131-5671-40fd-b84a-d96b907dc164",
+          "targetColor": "0xFF1F212C"
+        },
+        {
+          "paletteColorId": "4195860a-6f35-4414-b102-fe61d46417f0",
+          "targetColor": "0xFF11131F"
+        }
+      ],
+      "name": "Blue Team",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "cab3d0f1-fe0a-4223-b519-1cbd8a2f6450",
+      "colors": [
+        {
+          "paletteColorId": "b44f91b9-2d8e-42dc-9c8b-4519c1729a75",
+          "targetColor": "0xFFC7D5EA"
+        },
+        {
+          "paletteColorId": "8925acbe-3776-4ca6-9191-c331e4951064",
+          "targetColor": "0xFFA7B3D4"
+        },
+        {
+          "paletteColorId": "bf0f5980-4a6b-4058-8ddf-40f19cdeb8b0",
+          "targetColor": "0xFF8892BF"
+        },
+        {
+          "paletteColorId": "315caa00-82f1-42e9-8eec-658c24a5146a",
+          "targetColor": "0xFF636891"
+        },
+        {
+          "paletteColorId": "de2126b0-8eae-4489-a1a5-038a7acf69d4",
+          "targetColor": "0xFF425593"
+        },
+        {
+          "paletteColorId": "5850ced9-7280-45ce-9e0a-027ce16a603c",
+          "targetColor": "0xFF354473"
+        },
+        {
+          "paletteColorId": "2383f131-5671-40fd-b84a-d96b907dc164",
+          "targetColor": "0xFF293354"
+        },
+        {
+          "paletteColorId": "4195860a-6f35-4414-b102-fe61d46417f0",
+          "targetColor": "0xFF1C2235"
+        }
+      ],
+      "name": "Vlov",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

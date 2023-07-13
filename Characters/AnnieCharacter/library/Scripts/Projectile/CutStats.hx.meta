@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "5c557c5f-b7ab-4f7c-93c1-2cec2f0140ab",
+  "id": "cutCharaStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

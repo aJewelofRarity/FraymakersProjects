@@ -1,0 +1,39 @@
+{
+  "resourceId": "annieAssist",
+  "content": [{
+    "id": "annie",
+    "name": "Annie",
+    "description": "I Know nothing about this game",
+    "type": "assist",
+    "objectStatsId": "annieStats",
+    "animationStatsId": "annieAnim",
+    "hitboxStatsId": "annieHit",
+    "scriptId": "annieScript",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_icon":"hud",
+          "animation_icon_no_palette":"css"
+        },
+        "hud":{
+          "animation":"hud"
+        },
+        "css":{
+          "info":{
+            "game":"Skullgirls",
+            "description":"I Know nothing about this game"
+          }
+        }
+      }
+    }
+  },{
+    "id": "Pcrescentcut",
+    "type": "projectile",
+    "objectStatsId": "cutStats",
+    "animationStatsId": "cutAnim",
+    "hitboxStatsId": "cutHit",
+    "scriptId": "cutScript"
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "3745893d-d432-41d8-8c6a-0202b090ffb3",
+  "id": "annieAIScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "CUSTOM_GAME_OBJECT",
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "c651199c-9b22-4a60-9a72-d19d12e1ee2f",
+  "id": "8ballStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

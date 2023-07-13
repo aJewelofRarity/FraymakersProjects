@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "c3992622-07d9-45ea-a36f-df3ee9cb7277",
+  "id": "starScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "CUSTOM_GAME_OBJECT",
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "5052f7e6-484d-48ef-b45a-5f57cd1a7b8b",
+  "id": "NecoHitboxStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

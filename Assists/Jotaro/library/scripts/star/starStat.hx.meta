@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "9351a941-6c77-411d-92e1-480f7856f6b8",
+  "id": "starStat",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

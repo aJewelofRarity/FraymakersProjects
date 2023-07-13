@@ -1,0 +1,5 @@
+{
+    idle: {},
+    crescentcut: {},
+    outro: {}
+}

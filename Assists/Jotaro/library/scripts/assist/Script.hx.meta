@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "1c66b816-c5cc-4411-8b64-a4cba8f2f708",
+  "id": "jotaroScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "ASSIST",
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "resourceId": "annieCharacter",
+  "content": [{
+    "id": "annieCharacter",
+    "name": "Annie",
+    "description": "I Know nothing about this game",
+    "type": "character",
+    "objectStatsId": "annieStats",
+    "animationStatsId": "annieAnim",
+    "hitboxStatsId": "annieHit",
+    "scriptId": "annieScript",
+    "costumesId": "annieCostumes",
+    "aiId": "annieAI",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_icon":"hud",
+          "animation_icon_no_palette":"css"
+        },
+        "hud":{
+          "animation":"hud"
+        },
+        "css":{
+          "info":{
+            "game":"Skullgirls",
+            "description":"I Know nothing about this game"
+          }
+        }
+      }
+    }
+  },{
+    "id": "annieAI",
+    "type": "characterAi",
+    "scriptId": "annieAIScript"
+  },{
+    "id": "PcrescentcutChara",
+    "type": "projectile",
+    "objectStatsId": "cutCharaStats",
+    "animationStatsId": "cutCharaAnim",
+    "hitboxStatsId": "cutCharaHit",
+    "scriptId": "cutCharaScript"
+  },{
+    "id": "annieBurstMeter",
+    "type": "displayobject"
+  }]
+}

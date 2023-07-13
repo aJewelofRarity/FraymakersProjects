@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "35d26bcc-20d6-43dd-8fef-de3c7e73abe3",
+  "id": "NecoObjectStats",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "7fd49136-3922-4c61-a70c-2fed682e1da6",
+  "id": "peacockStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

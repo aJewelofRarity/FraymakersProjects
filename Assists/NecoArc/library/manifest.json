@@ -1,0 +1,33 @@
+{
+  "resourceId": "necoarc",
+  "content": [{
+    "id": "necoarc",
+    "name": "Neco-Arc",
+    "description": "Neco-Arc is a Neco Spirit appearing in the Tsukihime series. She is a pint-size cat girl parody of Arcueid Brunestud, acting as the mascot character of Type-Moon at times.",
+    "type": "assist",
+    "objectStatsId": "NecoObjectStats",
+    "animationStatsId": "NecoAnim",
+    "hitboxStatsId": "NecoHitboxStats",
+    "scriptId": "NecoScript",
+    "costumesId": "NecoCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon":"assist_hud",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "info":{
+            "game":"Melty Blood/Tsukihime",
+            "description":"Neco-Arc is a Neco Spirit appearing in the Tsukihime series. She is a pint-size cat girl parody of Arcueid Brunestud, acting as the mascot character of Type-Moon at times."
+          }
+        }
+      }
+    }
+  }]
+}

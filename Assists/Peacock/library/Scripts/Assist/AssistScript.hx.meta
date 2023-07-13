@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "93e43b28-b546-4b9b-bc87-e58a2ef08eb9",
+  "id": "peacockScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "ASSIST",
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

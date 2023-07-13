@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "9011982f-82d3-45a0-98d6-78e5f766d9e3",
+  "id": "toukaScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "ASSIST",
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

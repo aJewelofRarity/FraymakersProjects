@@ -1,0 +1,40 @@
+{
+  "resourceId": "jotaro",
+  "content": [{
+    "id": "jotaro",
+    "name": "Jotaro Kujo",
+    "description": "",
+    "type": "assist",
+    "objectStatsId": "jotaroStats",
+    "animationStatsId": "jotaroAnim",
+    "hitboxStatsId": "jotaroHit",
+    "scriptId": "jotaroScript",
+    "costumesId": "jotaroCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "animation":"assist_css",
+          "info":{
+            "game":"JOJO",
+            "description":""
+          }
+        }
+      }
+    }
+  },{
+    "id": "star",
+    "type": "customGameObject",
+    "objectStatsId": "starStat",
+    "animationStatsId": "starAnim",
+    "hitboxStatsId": "starHit",
+    "scriptId": "starScript"
+  }]
+}

@@ -1,0 +1,39 @@
+{
+  "resourceId": "peacockAssist",
+  "content": [{
+    "id": "peacockAssist",
+    "name": "Peacock",
+    "description": "I Know nothing about this game",
+    "type": "assist",
+    "objectStatsId": "peacockStats",
+    "animationStatsId": "peacockAnim",
+    "hitboxStatsId": "peacockHit",
+    "scriptId": "peacockScript",
+    "metadata": {
+      "ui":{
+        "entityId":"peacockMenu",
+        "render":{
+          "animation":"full",
+          "animation_icon":"hud",
+          "animation_icon_no_palette":"css"
+        },
+        "hud":{
+          "animation":"hud"
+        },
+        "css":{
+          "info":{
+            "game":"Skullgirls",
+            "description":"I Know nothing about this game"
+          }
+        }
+      }
+    }
+  },{
+    "id": "peacock8Ball",
+    "type": "projectile",
+    "objectStatsId": "8ballStats",
+    "animationStatsId": "8ballAnim",
+    "hitboxStatsId": "8ballHit",
+    "scriptId": "8ballScript"
+  }]
+}

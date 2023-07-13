@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "2922d72e-b5a4-4070-b73d-53ffbc1a3ae4",
+  "id": "NecoScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "ASSIST",
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

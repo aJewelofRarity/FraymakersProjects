@@ -1,0 +1,15 @@
+{
+  "export": false,
+  "guid": "7c80fca2-6e3b-4dab-b2ec-3ab90635a1c6",
+  "id": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 2
+}

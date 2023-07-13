@@ -1,0 +1,33 @@
+{
+  "resourceId": "touka",
+  "content": [{
+    "id": "touka",
+    "name": "Touka",
+    "description": "",
+    "type": "assist",
+    "objectStatsId": "toukaStats",
+    "animationStatsId": "toukaAnim",
+    "hitboxStatsId": "toukaHit",
+    "scriptId": "toukaScript",
+    "costumesId": "toukaCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "animation":"assist_css",
+          "info":{
+            "game":"Utawarerumono",
+            "description":""
+          }
+        }
+      }
+    }
+  }]
+}

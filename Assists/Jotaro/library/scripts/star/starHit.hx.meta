@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "33ae8326-4d33-400f-a2cd-2c0c2428fc5d",
+  "id": "starHit",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

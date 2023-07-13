@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "c572c1a8-1451-4e92-accb-1028de3e12b5",
+  "id": "annieHit",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

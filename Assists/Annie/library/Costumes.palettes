@@ -1,0 +1,43 @@
+{
+  "colors": [
+    {
+      "$id": "74742350-d2f2-4ed4-980e-63a8d57434ae",
+      "color": "0xFDEDF8E2",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "e517df3a-951b-4f4b-aa26-d0279c4b19f8",
+  "id": "anniecostumes",
+  "imageAsset": "9d7ad8c7-8ebd-4558-863f-060c530e2765",
+  "maps": [
+    {
+      "$id": "bfc69cd8-ffba-40a2-ac4e-6f3e597ecdd4",
+      "colors": [
+        {
+          "paletteColorId": "74742350-d2f2-4ed4-980e-63a8d57434ae",
+          "targetColor": "0xFDA7FF00"
+        }
+      ],
+      "name": "Untitled Palette Map",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true
+        }
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

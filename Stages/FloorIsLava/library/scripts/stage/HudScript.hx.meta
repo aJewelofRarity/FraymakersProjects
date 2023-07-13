@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "c6f3e0ac-275d-4a6c-be57-bd9a1591e594",
+  "id": "hudScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "CUSTOM_GAME_OBJECT",
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

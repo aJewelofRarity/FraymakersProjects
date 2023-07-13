@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": "9d4d830d-6018-4f3c-84aa-20baed32df05",
+  "id": "8ballScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
