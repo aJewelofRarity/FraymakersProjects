@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "c2f2457e-02b1-4280-984e-368e27ef7047",
+  "id": "soundstageScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "STAGE",
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

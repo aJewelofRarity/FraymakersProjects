@@ -1,0 +1,36 @@
+{
+  "resourceId": "soundstage",
+  "content": [{
+    "id": "soundstage",
+    "name": "Sound Stage",
+    "description": "Annies stage from skullgirls",
+    "type": "stage",
+    "objectStatsId": "soundstageStats",
+    "scriptId": "soundstageScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::soundstage.soundstagehazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "soundstagehazards",
+    "name": "Stage Template",
+    "description": "Annies stage from skullgirls",
+    "type": "stage",
+    "objectStatsId": "soundstageStatsH",
+    "scriptId": "soundstageScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  }]
+}
